@@ -1,0 +1,47 @@
+.intro{
+	width:1100px;
+	margin:0 auto;
+	margin-top:20px;
+	border:3px solid #FAFAD2;
+	border-radius:5px;
+}
+.tit{
+	font-size:35px;
+	color:#B8860B;
+	margin-left:500px;
+	margin-bottom:10px;
+}
+.headline{
+	text-indent:0;
+	font-size:35px;
+	color:darkgoldenrod;
+}
+.headline img{
+	margin-left:10px;
+}
+.intro p{
+	font-size:20px;
+	line-height:30px;
+	text-indent:2em;
+	padding:10px;
+	color:#FAFAD2;
+}
+.show{
+	height:830px;
+	width:1100px;
+	margin:0 auto;
+	margin-top:20px;
+	border:3px solid #FAFAD2;
+	border-raidus:5px;
+}
+.show table tr td img{
+	margin-top:20px;
+	margin-left:31px;
+}
+.show table tr td span{
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-left:240px;
+	color:#FAFAD2;
+	font-size:24px;
+}
